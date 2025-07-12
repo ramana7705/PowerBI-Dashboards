@@ -1,6 +1,6 @@
 📊 Task 1 – Sales Dashboard | Power BI Internship (CODTECH)
 
-👩‍💻 Intern:CH LEELA BHAVANI
+👩‍💻 Intern:M Venkata Ramana
 🗂️ Internship: CODTECH – Power BI Virtual Internship
 📁 File: Task1_SalesDashboard.pbix ✅ Objective To build an interactive Power BI dashboard visualizing sales performance using sample data. 📁 Data Source
 
